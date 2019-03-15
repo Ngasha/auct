@@ -19,21 +19,17 @@
     
                 <div class="overlay-content">
                        
-                       <div class="link-1 link"><a href="index.php">Home</a></div>
+                       <div class="link-1 link"><a href="index.php"></a></div>
                        <div class="link-2 link"><a href="auction.php">Auction</a></div>
-                       <div class="link-3 link"><a href="contact.php">Contact</a></li></div>
-                       <div class="link-4 link"><a href="cart.php" id="cart"><i class="large material-icons">add_shopping_cart</i>Cart</a></div>
-                       <div class="link-5 link"><a href="login.php" id="mybutton"><i class="large material-icons">person</i></a></div><!--trigger to open-->
+                       <div class="link-5 link"><a href="account.php" id="mybutton"><i class="large material-icons">person</i></a></div><!--trigger to open-->
                 </div>
             </div>
     
             <div class="menu-container">
                    
-                   <div class="link-1 link"><a href="index.php">Home</a></div>
-                   <div class="link-2 link"><a href="auction.php">Auction</a></div>
-                   <div class="link-3 link"><a href="contact.php">Contact</a></li></div>
-                   <div class="link-4 link"><a href="cart.php" id="cart"><i class="large material-icons">add_shopping_cart</i>Cart</a></div>
-                   <div class="link-5 link"><a href="login.php" id="mybutton"><i class="large material-icons">person</i></a></div><!--trigger to open-->
+                        <div class="link-1 link"><a href="index.php"></a></div>
+                       <div class="link-2 link"><a href="auction.php">Auction</a></div>
+                       <div class="link-5 link"><a href="account.php" id="mybutton"><i class="large material-icons">person</i></a></div><!--trigger to open-->
             </div>
             <div class="body-wrapper">
                 <div class="slideshow-background back-ground">
